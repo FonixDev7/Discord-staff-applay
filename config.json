@@ -1,0 +1,23 @@
+{
+  "TOKEN": " YOUR BOT TOkEN ",
+  "APPLY": {
+    "GANGS": {
+      "NAME": "Staff / Game Application",
+      "BANNER": "https://media.discordapp.net/attachments/1307035920255418368/1307827988565594172/BACKGROUND.png?ex=6777b57a&is=677663fa&hm=945ba71b0a89aac232b5e2fdc5225d3b189343be31c9828250e09ef21fac20e6&=&quality=lossless",
+      "DATA": [
+        {
+          "name": "Staff Application",
+          "emoji": "📥",
+          "CHANNEL": "channel id ",
+          "role": "role id acepted "
+        },
+        {
+          "name": "Game Application",
+          "emoji": "🎮",
+          "CHANNEL": "channel id ",
+          "role": "role id acepted "
+        }
+      ]
+    }
+  }
+}
